@@ -1,5 +1,5 @@
 # **_Blade Runner 2049_**
-![Photo of K]()
+![Photo of K](img/snow_shot.jpg)
 
 This movie is a well-known science fiction movie directed by _Denis Villeneuve_ (*Dune series*) and starring _Ryan Gosling_, released in 2017. Its predecessor was "_Blade Runner_" released in 1982.
 
@@ -16,6 +16,7 @@ _"You imagined it was you._
 _Ohh, you did..you did.._
 _We all wish it was us."_
 K slowly lowered his head, frowned, and trembled as the words fell. Although he didn't answer anything, his sadness, anger, and powerlessness seemed to be tangible and spread throughout the entire shot.
+![Scene of replicant freedom movement leader talking to K](img/you_imagined_it_was_you.gif)
 
 ## Thoughts about the movie styles
 #### Colors of the film
@@ -25,3 +26,4 @@ It is worth mentioning that the film's aesthetics and atmosphere are full of lig
 #### Shots of the film
 
 The movie has a lot of wide-angle shots accompanied by a slow advance of K, emphasizing K's loneliness in the surrounding environment, which caused me to empathize with K's thoughts and emotions throughout the movie.
+![Wide shots of the movie](img/wide_shot.jpg)
