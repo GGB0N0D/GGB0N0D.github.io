@@ -16,6 +16,7 @@ _"You imagined it was you._
 _Ohh, you did..you did.._
 _We all wish it was us."_
 K slowly lowered his head, frowned, and trembled as the words fell. Although he didn't answer anything, his sadness, anger, and powerlessness seemed to be tangible and spread throughout the entire shot.
+
 ![Scene of replicant freedom movement leader talking to K](img/you_imagined_it_was_you.gif)
 
 ## Thoughts about the movie styles
